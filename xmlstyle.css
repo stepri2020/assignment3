@@ -1,0 +1,8 @@
+song {display: block; border-bottom: 1px solid #a832a6; padding: 10px 20px;}
+song title {font-weight: bold; display: block;}
+song artist {display: block;}
+song genre {display: block;}
+song released {display: block;}
+song artist:before {content: "Artist: "; }
+song genre:before {content: "Genre: ";}
+song released:before {content: "Year Released: ";}

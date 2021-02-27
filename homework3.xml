@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "xmlstyle.css" ?>
+<songs>
+  <song>
+    <title> Robbers
+    </title>
+    <artist> The 1975
+    </artist>
+    <genre> Pop Rock
+    </genre>
+    <released> 2013
+    </released>
+  </song>
+  <song>
+    <title> Do I Wanna Know?
+    </title>
+    <artist> Arctic Monkeys
+    </artist>
+    <genre> Indie Rock
+    </genre>
+    <released> 2013
+    </released>
+  </song>
+  <song>
+    <title> I Wanna Be Yours
+    </title>
+    <artist> Arctic Monkeys
+    </artist>
+    <genre> Indie Rock
+    </genre>
+    <released> 2013
+    </released>
+  </song>
+  <song>
+    <title> Goodmorning
+    </title>
+    <artist> Bleachers
+    </artist>
+    <genre> Alternative
+    </genre>
+    <released> 2014
+    </released>
+  </song>
+  <song>
+    <title> I Wanna Get Better
+    </title>
+    <artist> Bleachers
+    </artist>
+    <genre> Alternative
+    </genre>
+    <released> 2014
+    </released>
+  </song>
+  <song>
+    <title> I Miss Those Days
+    </title>
+    <artist> Bleachers
+    </artist>
+    <genre> Alternative
+    </genre>
+    <released> 2014
+    </released>
+  </song>
+  <song>
+    <title> Goodbye
+    </title>
+    <artist> Bleachers
+    </artist>
+    <genre> Alternative
+    </genre>
+    <released> 2014
+    </released>
+  </song>
+  <song>
+    <title> All My Heroes
+    </title>
+    <artist> Bleachers
+    </artist>
+    <genre> Alternative
+    </genre>
+    <released> 2014
+    </released>
+  </song>
+  <song>
+    <title> Hate That You Know Me
+    </title>
+    <artist> Bleachers
+    </artist>
+    <genre> Alternative
+    </genre>
+    <released> 2014
+    </released>
+  </song>
+  <song>
+    <title> Everybody Lost Somebody
+    </title>
+    <artist> Bleachers
+    </artist>
+    <genre> Alternative
+    </genre>
+    <released> 2014
+    </released>
+  </song>
+</songs>
